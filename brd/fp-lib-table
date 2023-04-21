@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ECMS1V0704)(type KiCad)(uri ${KIPRJMOD}/lib/ECMS1V0704.pretty)(options "")(descr ""))
+)
